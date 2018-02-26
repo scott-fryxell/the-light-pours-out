@@ -1,0 +1,31 @@
+@require "../variables"
+nav
+  display: flex
+  flex-direction:column
+  align-content: flex-start
+  align-items:center
+  align-content:space-around;
+
+  & > a
+    between: font-size, min-font, max-font, min-screen, max-screen
+    color: white
+    padding-top: base-line
+    display:inline-block
+    margin: base-line
+    width: 100vw - base-line * 2.5
+    height: 66vw
+    border-radius:  base-line
+    
+    &:nth-child(odd)
+      // margin-right: base-line
+    &:hover
+      color: red
+    &.yellow
+      color:red
+      text-shadow: 1px 0px 0px black
+      &:hover
+        color:pink
+    &.red
+      color:white
+      &:hover
+        color: blue

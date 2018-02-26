@@ -1,0 +1,36 @@
+@require "../variables"
+details
+  overflow: hidden
+  position:relative
+  width: 100%
+
+  & > summary
+    cursor: pointer
+
+
+    &::-webkit-details-marker
+      display:none
+    & > svg
+      fill:red
+      stroke:black
+      stroke-width:1
+      height: 2rem
+      width:  base-line *2
+      transform: rotate(180deg)
+
+    & > h5
+      font-size: 0
+      margin:0
+      transform: rotate(1deg)
+      color:red
+      text-shadow: 0.75px -0.5px 0px red
+      text-fill-color: red-fill;
+      &:hover
+        font-size: inherit
+
+  &[open]
+    & > summary
+      text-decoration: none
+    & > *:not(summary)
+      animation-name: fadeInDown
+  

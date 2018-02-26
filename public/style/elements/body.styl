@@ -1,0 +1,47 @@
+@require "../variables"
+body
+  min-height:100vh
+  border:none
+  display:flex
+  flex-direction: column
+  align-items: center
+  justify-content: flex-start
+  border: ( base-line / 2 ) solid blue
+  box-shadow: inset (base-line * 5) base-line gold
+  box-shadow: -1px -1px -3px blue
+  padding: ( base-line / 2 )
+  line-height: remove-unit(base-line)
+  user-select: none
+
+  & > header
+  & > main
+  & > footer
+    display:flex
+    flex-direction: column
+    align-items: center
+    justify-content: space-around
+
+  & > main
+    align-items: stretch
+
+  & > footer
+    flex-direction: column
+    width: 100%
+    position: fixed
+    bottom:0
+    left:0
+
+  & > header
+    padding: 0 (base-line / 2)
+    display:flex
+    flex-direction: row
+    // margin: base-line 0
+    width:100vw
+    justify-content: space-around
+    & > h1
+      margin-top: base-line
+      width:30vw
+      line-height: ( base-line * 2 )
+    & img
+      // margin-top: base-line
+      height:(base-line * 5)
