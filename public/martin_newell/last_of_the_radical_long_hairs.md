@@ -1,7 +1,11 @@
-# The many shifts, splits and licks of martin newell. busier and busier
+<link rel="stylesheet" href="newell.css">
 
-*A self-described “jangling man,” the English songwriter and poet Martin Newell is best known for fronting Cleaners from Venus, a band whose only constant has been Newell himself.  HIs career is a never ending sprint on ward and upward. He produces an album quicker than the average musicians even gets the idea for a song. In his own words “  I started writing before I was 15, and I haven’t really stopped.” Perhaps this is because not unlike his career, his life has been anything but constitant. His early days was spent traveling from city to city , country to country with his stark military father. At a young age Newell found solace and consistency in music. 3 BANDS, 20 ALBUMS , A FEW BOOKS AND and A FULL FLEDged POETRY CAREER LATER (hyperlink out)  CAREER NEWELL IS NOW 64 RESIDING IN THE ENGLISH COUNTRYSIDE. His humour and output un-dampened by the test of time. I talked to Newell on the phone in August 2014, Newell’s speaks with a thick proper English accent, guns a blaze at a thousand words a minute without hesitation unless breaking to jolly laughter.*
+<header class='fullscreen'>
+  <h1>Martin Newell</h1>
+  <h2>Last of the radical long hairs</h2>
+</header>
 
+*A self-described “jangling man,” the English songwriter and poet Martin Newell is best known for fronting Cleaners from Venus, a band whose only constant has been Newell himself.  HIs career is a never ending sprint on ward and upward. He produces an album quicker than the average musicians even gets the idea for a song. In his own words “  I started writing before I was 15, and I haven’t really stopped.” Perhaps this is because not unlike his career, his life has been anything but constituent. His early days was spent traveling from city to city , country to country with his stark military father. At a young age Newell found solace and consistency in music. 3 BANDS, 20 ALBUMS , A FEW BOOKS AND and A FULL FLEDged POETRY CAREER LATER (hyperlink out)  CAREER NEWELL IS NOW 64 RESIDING IN THE ENGLISH COUNTRYSIDE. His humor and output un-dampened by the test of time. I talked to Newell on the phone in August 2014, Newell’s speaks with a thick proper English accent, guns a blaze at a thousand words a minute without hesitation unless breaking to jolly laughter.*
 
 **Can you talk about your military upbringing?**
 I was what we call a “barrack brat” and what you people call an “army brat." I lived in Singapore and Cyprus and I was just working out how much of the 60's I missed by being abroad. I missed about eight months of 1961, the whole of of 1965, two months of 1964, five months of 1966 and a tiny bit of the beginning of 1967.
