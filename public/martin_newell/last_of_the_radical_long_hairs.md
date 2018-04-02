@@ -28,6 +28,10 @@ Maybe I was mad? I thought there was this otherness.
 **Did that change at any point?**
 Yeah. I fastened on to the one thing I thought I could do, which was to be some kind of a pop star. Once that idea took root in me it was pretty hard to shift. I saw A Hard Day’s Night by The Beatles, and I thought that’s what being a pop star would be like. I was 10 or 11 years old when I saw that. So that’s what I had to go and do, I had to be in a pop group, that was the kind of life I had to lead. It wasn’t anything to do with money; it had to do with music and lots of fun, and moving really fast the whole time. Getting in and out of trains and studios and it all just looked like tremendous fun. I realize when I read the stories about that period in [the Beatles] lifetimes, of course it wasn’t tremendous fun, it was actually probably really confusing, but bits of it must have been good.
 
+<figure>
+![cover](inline-01.jpg)
+</figure>
+
 **When did you pick up your first instrument?**
 I played a guitar when I was 12, in Christmas 1965. That’s when the world started changing for me.
 
@@ -40,8 +44,8 @@ Quite a lot. I come from a 2nd generation of baby boomers. When you have a war, 
 Your way of fighting was to become a pop star.
 
 There’s this expression, fighting for peace is like fucking for virginity. Peace after the war didn't turn out exactly the way people expected.
-How did your parents react to all of these things?
 
+**How did your parents react to all of these things?**
 My mum was more proud of me and interested in what I was doing, because she came from a musical family. What I was trying to do was a bit in advance of what she knew; she couldn’t have helped me. The classic thing was, my dad would be very bad-tempered. He would finish training soldiers and come back from the job he hated, pour himself a big whiskey, romp around the place, and say, "Stop playing that bloody banjo." And my mom would say, “He’s composing.” And I’d hear him shout, "I don’t care if he’s bloody decomposing, he needs to stop playing that banjo." That was a grim joke but he didn’t think it was going anywhere.
 
 **Did he try to dissuade you from playing music for a living?**
@@ -52,6 +56,10 @@ He didn’t see me do a gig until two years before he died. And he said to my Mu
 
 **What happened when you started to rebel more, with the long hair and music?**
 When I did start getting things the way I wanted, my dad stopped my allowance, which wasn’t very much anyway. I went and got a paper route, and then I started stealing film posters off train station walls. I got Clint Eastwood posters and Bridget Bardot posters that would fetch three shillings in school, so I found a technique of quickly peeling the edges off and, just when the train comes, peeling the whole thing off the wall and getting into the train when it started moving. I’d take them into school the next day to sell. I forged the headmaster’s signature on dinner tickets as well. This is grand larceny we’re talking about here.
+
+<figure>
+![cover](inline-02.jpg)
+</figure>
 
 **What were you listening to besides pop?**
 I did listen to a bit of Bach, I seem to like baroque music, there was a thread of that. I’ll tell you what else I listened to, my mum was a bit of a singer herself, and she liked lots of Hollywood musicals and West-End musicals, and Broadway musicals and we had quite a few of those around. We had things like My Fair Lady and Sound of Music. A big one I liked was Carousel. My parents were fond of musical comedy as well, so I wasn’t just fed a diet of pop music. We didn’t have much classical music around, they weren’t classical music type of people.
@@ -67,7 +75,8 @@ Pop has a bit of fun in it, a lightness of touch, and it isn’t afraid to make 
 **So in your experience pop was therapeutic?**
 I liked a lot of American bubblegum in 1968; “Gimme Gimme Good Loving,” “Yummy Yummy Yummy I got Love in my Tummy,” I thought they were big, I thought they were clever. There was other stuff that I thought was just a bit silly, I did also listen to Spirit, which I liked...I mean the thing about the Yanks, I mean you cherished Americans, cousins of ours, is that you make bloody good pop music. You do pop, you do it better than us. I mean, it sounds sophisticated. I mean, Bacharach, for instance. Or The Carpenters—we didn’t have anything like that.
 
-I read a lot of things saying you didn’t become quite the pop star you imagined yourself to be. Can you talk a bit about that?I certainly didn't and it probably saved my life. When I was a kid I thought I’d turn out to be a poet or a writer. When you’re a teenager you get very blinkered, you think, “I'm gonna be a pop star, I’m gonna be a pop star” and you repeat this mantra to yourself and you don't know how you're gonna do it, and then you're in your mid 20s and you think “Am I?” I think it would have been a very bad thing if I got the sort of fame I thought I wanted.
+**I read a lot of things saying you didn’t become quite the pop star you imagined yourself to be. Can you talk a bit about that?**
+I certainly didn't and it probably saved my life. When I was a kid I thought I’d turn out to be a poet or a writer. When you’re a teenager you get very blinkered, you think, “I'm gonna be a pop star, I’m gonna be a pop star” and you repeat this mantra to yourself and you don't know how you're gonna do it, and then you're in your mid 20s and you think “Am I?” I think it would have been a very bad thing if I got the sort of fame I thought I wanted.
 
 **Why?**
 It would have destroyed me or just debase what talent I had. I'm still going now, I still like what I do. I know people more famous than me and they're kinda burned out. They got very jaundiced against the business, jaundiced against their own creativity. I still wake up in the morning with “Wow, it’s late, let's make a track,” and I think I’m very lucky to always be able to do that. I mean it’s Wednesday, I have two more days to work on the album. No one can stop me, I don’t have to go to work, I have enough money coming in.

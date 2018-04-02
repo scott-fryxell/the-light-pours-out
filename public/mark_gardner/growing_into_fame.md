@@ -1,5 +1,5 @@
 
-<figure class="headline">
+<figure>
 ![cover](cover.jpg)
 </figure>
 
