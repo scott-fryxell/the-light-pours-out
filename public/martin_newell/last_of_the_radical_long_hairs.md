@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="newell.css">
 
 <header class='fullscreen'>
-  <h1>Martin Newell; Last of the radical long hairs</h1>
+  <h1>Last of the radical long hairs</h1>
 </header>
 
 *A self-described “jangling man,” the English songwriter and poet Martin Newell is best known for fronting Cleaners from Venus, a band whose only constant has been Newell himself. His early days was spent traveling from city to city, country to country with his stark military father. Newell found solace and consistency in music. Three bands, twenty albums , a few books and a full fledged poetry career later Newell is still constantly producing.*
