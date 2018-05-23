@@ -17,8 +17,9 @@ nav
 
     figure
       display: flex
-      flex-direction: row
-
+      flex-direction: column
+      @media (min-width: min-screen)
+        flex-direction: row
       img
         border-radius:  (base-line / 6)
         height: 25vh
