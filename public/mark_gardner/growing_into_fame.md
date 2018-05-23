@@ -1,9 +1,8 @@
+# Mark Gardner on growing into fame
 
 <figure>
 ![cover](cover.jpg)
 </figure>
-
-# Mark Gardner on growing into fame
 
 *Ride started in 1988, at the time both lead singer Mark Gardner and guitar player Andy Bell fresh out of high school. The band was almost discovered by Alan Mcgee and signed to Creation Records. They rapidly surpassed even their own conceptions of success. Just two years after their inception all three of their eps had hit the Uk top 75, at the time lead singer Mark Gardner was only nineteen. Gardner now 47 lives in his home town of Oxford splitting his time between producing, being a father and performing in Ride. We talked about suburban mundanity and his abrupt fame.*
 
@@ -17,9 +16,8 @@ He was a madcap kind of character, and looking back he suffered a bit from depre
 Getting on the motorbike going into the city, drinking, smoking, getting high. There was quite a lot of hash, it wasn't strong really but it was a big Caribbean influence in Oxford where my uncle lived and my dad grew up. I gravitated back to that area and that was where I ended up getting a house, because it was close to a place I could buy pot. And that’s East Oxford and that’s where I still live, and it’s very cosmopolitan and multicultural, and it’s always been surrounded by a conservative blue thing, but it’s a place I love and I’m still here, I’ve lived away lots but these are kinda my roots I suppose. I would alter my consciousness and see how it would affect my art. I didn't turn into a big drugger but I definitely experimented and drugs were always around me.
 
 <figure>
-![cover](inline-01.jpg)
+![cover](inline-00.jpg)
 </figure>
-
 
 **What was up with the motorbike?**
 I would sometimes illegally ride them around when I was younger, I bought a terrible old motorbike, from a dump sort of place for things on their last legs, and I sort of would go around fields, and that was a real early buzz for me for sure. Another friend of mine had a sort of Lambretta scooter. We used to go out across the fields, that was a real buzz.

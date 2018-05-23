@@ -13,14 +13,17 @@ nav
     margin: base-line
     padding: base-line
     width: 100vw - base-line * 5
-    min-height: 66vw
-    border-radius:  base-line
+    border-radius:  (base-line / 6)
 
     figure
       display: flex
-      flex-direction: column
+      flex-direction: row
+
       img
-        border-radius: base-line
-        // width: 50%
+        border-radius:  (base-line / 6)
+        height: 25vh
+        min-width:25vh
+        width: auto;
       figcaption
-          text-align: center
+        margin-left:base-line
+        width: 50vw

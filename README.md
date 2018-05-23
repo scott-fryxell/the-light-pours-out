@@ -1,7 +1,7 @@
 ## current fonts
 
 <link href="https://fonts.googleapis.com/css?family=Abel|Lora" rel="stylesheet">
-
+<link href="https://fonts.googleapis.com/css?family=Oswald" rel="stylesheet">
 
 ## fonts under consideration
 <link href="https://fonts.googleapis.com/css?family=Michroma|Abel|Archivo+Narrow|Barlow+Condensed:400,500|Bitter:400i|Comfortaa|Domine|Dosis|Encode+Sans+Condensed|Istok+Web|Lora|News+Cycle|Nunito|Oxygen|Pathway+Gothic+One|Questrial|Rufina|Varela+Round" rel="stylesheet">
